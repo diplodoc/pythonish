@@ -23,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="naivebayes_train.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/naivebayes_train.py">
+      <file leaf-file-name="textsimilarity_create_dataset.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/textsimilarity_create_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="10" selection-start="1992" selection-end="1992" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1275">
+            <state line="37" column="34" selection-start="949" selection-end="1101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,8 +37,10 @@
       <file leaf-file-name="classify.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="59" selection-end="92" vertical-scroll-proportion="23.923077" vertical-offset="667" max-vertical-offset="1185">
-              <folding />
+            <state line="60" column="34" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1185">
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,9 +48,20 @@
       <file leaf-file-name="url2text.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/url2text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="10" selection-start="110" selection-end="110" vertical-scroll-proportion="0.13786764" vertical-offset="0" max-vertical-offset="544">
+            <state line="8" column="4" selection-start="166" selection-end="166" vertical-scroll-proportion="0.14545454" vertical-offset="0" max-vertical-offset="825">
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textsimilarity.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/textsimilarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="16" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="952">
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,21 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="naivebayes_create_dataset.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/naivebayes_create_dataset.py">
+      <file leaf-file-name="database_create.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database_create.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="17" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="naivebayes.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/naivebayes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="0" selection-start="5046" selection-end="5046" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2475">
+            <state line="7" column="0" selection-start="0" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
@@ -104,6 +106,8 @@
         <option value="$PROJECT_DIR$/naivebayes_classify.py" />
         <option value="$PROJECT_DIR$/naivebayes_train.py" />
         <option value="$PROJECT_DIR$/naivebayes_create_dataset.py" />
+        <option value="$PROJECT_DIR$/textsimilarity_create_dataset.py" />
+        <option value="$PROJECT_DIR$/textsimilarity.py" />
         <option value="$PROJECT_DIR$/url2text.py" />
       </list>
     </option>
@@ -443,7 +447,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28253224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -606,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database_create.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="0" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/habr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="855">
@@ -646,27 +643,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/naivebayes_create_dataset.py">
+    <entry file="file://$PROJECT_DIR$/naivebayes_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="79" column="10" selection-start="1992" selection-end="1992" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1275">
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classify.py">
+    <entry file="file://$PROJECT_DIR$/naivebayes_create_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="59" selection-end="92" vertical-scroll-proportion="23.923077" vertical-offset="667" max-vertical-offset="1185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/naivebayes_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="10" selection-start="1992" selection-end="1992" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+        <state line="21" column="17" selection-start="391" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -680,9 +670,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/textsimilarity_create_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="34" selection-start="949" selection-end="1101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsimilarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="952">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="0" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="34" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1185">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/url2text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="10" selection-start="110" selection-end="110" vertical-scroll-proportion="0.13786764" vertical-offset="0" max-vertical-offset="544">
+        <state line="8" column="4" selection-start="166" selection-end="166" vertical-scroll-proportion="0.14545454" vertical-offset="0" max-vertical-offset="825">
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
